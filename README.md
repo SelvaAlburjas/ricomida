@@ -1,6 +1,8 @@
 # ricomida
 Ejercicio Evaluado
 En este desafío se debe realizar:
+En grupos de dos personas se debe resolver los siguientes requerimientos
+Realizado por Selva Alburjas y Daniela Chicahual.
 1. Carousel: Utilizar el carousel de Bootstrap con 2 carousel ítems y cada uno con 4
 imágenes en su interior. Éste en tamaños sm, xs debe desaparecer.
 2. Tooltip: Incluir un botón "Enviar por correo" con un tooltip aplicado.
