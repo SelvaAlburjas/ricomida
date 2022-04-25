@@ -1,0 +1,104 @@
+body{
+font-family: 'Cabin', sans-serif;
+}
+.bg-menu{
+    background-color: #373A3C;    
+}
+#textologo{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+}
+#navbarNav{
+    font-family: 'Cabin, Regular';
+    font-weight: 400;
+}
+#imp{
+    margin-top: 50pt;
+    align-content: right;
+}
+
+.titulo{
+    margin-top: 60pt;
+    width: 300pt;
+    margin-bottom: 40pt;
+    font-family: 'Cabin Bold', sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+.d-inline img{
+    width: 233px;
+    height: 170px;
+}
+
+.container1{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.tamano{
+    width: 233px;
+    height: 170px;
+}
+.carousel-item{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.circulo{
+    padding-top: 50%;
+}
+.subr{
+    text-decoration: underline;
+    font-family: 'Cabin' Regular;
+    font-weight: 700;
+}
+#alineado{
+    padding-left: 9%;
+    padding-right: 9%;
+
+}
+
+#RR{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.card{
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
+h2{
+    font-family: 'Cabin' Bold;
+    font-weight: 700;
+}
+aside{
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: x-large;
+    color: white;
+}
+h6{
+    font-size: large;
+}
+h6, aside{
+    display: inline-block;
+
+}
+#piepag1{
+    color: white;
+    background-color: #DC3545;
+    text-align: center;
+    padding: 12%;
+}
+.btn-lg{
+    padding-left: 7%;
+    padding-right: 7%;
+   
+}
+#piepag2{
+    background-color: #373A3C;
+    font-family: 'Lobster', cursive;
+    font-weight: 400;
+    font-size: medium;
+    color: white;
+    text-align: center;
+    padding: 3%;
+}
